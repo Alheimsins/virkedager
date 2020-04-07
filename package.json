@@ -1,0 +1,49 @@
+{
+  "name": "@alheimsins/virkedager",
+  "description": "Simple module for calculating working days",
+  "version": "1.0.0",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib/",
+    "index.js"
+  ],
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.16.1"
+  },
+  "scripts": {
+    "test": "standard && npm audit && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
+  },
+  "keywords": [
+    "bigfive",
+    "personality",
+    "result"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alheimsins/virkedager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alheimsins/virkedager/issues"
+  },
+  "homepage": "https://github.com/alheimsins/virkedager#readme",
+  "devDependencies": {
+    "ava": "3.5.2",
+    "coveralls": "3.0.11",
+    "nyc": "15.0.1",
+    "standard": "14.3.3"
+  }
+}
