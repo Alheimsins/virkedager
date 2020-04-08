@@ -15,33 +15,33 @@
 
 2021
 2021-01-01
-Søndag 28. mars: Palmesøndag
-Torsdag 1. april: Skjærtorsdag
-Fredag 2. april: Langfredag
-Søndag 4. april: 1. påskedag
-Mandag 5. april: 2. påskedag
-Lørdag 1. mai: Offentlig høytidsdag
-Torsdag 13. mai: Kristi Himmelfartsdag
-Mandag 17. mai: Grunnlovsdag
-Søndag 23. mai: 1. pinsedag
-Mandag 24. mai: 2. pinsedag
-Lørdag 25. desember: 1. juledag
-Søndag 26. desember: 2. juledag
+2021-03-28
+2021-04-01
+2021-04-02
+2021-04-04
+2021-04-05
+2021-05-01
+2021-05-13
+2021-05-17
+2021-05-23
+2021-05-24
+2021-12-25
+2021-12-26
 
 2022
-Lørdag 1. januar: 1. nyttårsdag
-Søndag 10. april: Palmesøndag
-Torsdag 14. april: Skjærtorsdag
-Fredag 15. april: Langfredag
-Søndag 17. april: 1. påskedag
-Mandag 18. april: 2. påskedag
-Søndag 1. mai: Offentlig høytidsdag
-Tirsdag 17. mai: Grunnlovsdag
-Torsdag 26. mai: Kristi Himmelfartsdag
-Søndag 5. juni: 1. pinsedag
-Mandag 6. juni: 2. pinsedag
-Søndag 25. desember: 1. juledag
-Mandag 26. desember: 2. juledag
+2022-01-01
+2022-04-10
+2022-04-14
+2022-04-15
+2022-04-17
+2022-04-18
+2022-05-01
+2022-05-17
+2022-05-26
+2022-06-05
+2022-06-06
+2022-12-25
+2022-12-26
 
 2023
 Søndag 1. januar: 1. nyttårsdag
