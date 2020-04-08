@@ -4,6 +4,14 @@
 
 Simple tool for calculating working days.
 
+## Usage
+
+Input a date object and an optional number of working days (defaults to 2).
+Get a date string in return.
+
+The module starts counting working days from the day after input date.
+It will skip saturdays, sundays and all Norwegian public holidays.
+
 ```JavaScript
 const virkedager = require('@alheimsins/virkedager')
 const date = new Date('2020-04-07')
