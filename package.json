@@ -28,9 +28,10 @@
     "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [
-    "bigfive",
-    "personality",
-    "result"
+    "virkedager",
+    "workingdays",
+    "helper",
+    "Alheimsins"
   ],
   "repository": {
     "type": "git",
