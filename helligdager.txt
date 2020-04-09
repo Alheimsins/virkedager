@@ -44,34 +44,34 @@
 2022-12-26
 
 2023
-Søndag 1. januar: 1. nyttårsdag
-Søndag 2. april: Palmesøndag
-Torsdag 6. april: Skjærtorsdag
-Fredag 7. april: Langfredag
-Søndag 9. april: 1. påskedag
-Mandag 10. april: 2. påskedag
-Mandag 1. mai: Offentlig høytidsdag
-Onsdag 17. mai: Grunnlovsdag
-Torsdag 18. mai: Kristi Himmelfartsdag
-Søndag 28. mai: 1. pinsedag
-Mandag 29. mai: 2. pinsedag
-Mandag 25. desember: 1. juledag
-Tirsdag 26. desember: 2. juledag
+2023-01-01
+2023-04-02
+2023-04-06
+2023-04-07
+2023-04-09
+2023-04-10
+2023-05-01
+2023-05-17
+2023-05-18
+2023-05-28
+2023-05-29
+2023-12-25
+2023-12-26
 
 2024
-Mandag 1. januar: 1. nyttårsdag
-Søndag 24. mars: Palmesøndag
-Torsdag 28. mars: Skjærtorsdag
-Fredag 29. mars: Langfredag
-Søndag 31. mars: 1. påskedag
-Mandag 1. april: 2. påskedag
-Onsdag 1. mai: Offentlig høytidsdag
-Torsdag 9. mai: Kristi Himmelfartsdag
-Fredag 17. mai: Grunnlovsdag
-Søndag 19. mai: 1. pinsedag
-Mandag 20. mai: 2. pinsedag
-Onsdag 25. desember: 1. juledag
-Torsdag 26. desember: 2. juledag
+2024-01-01
+2024-03-24
+2024-03-28
+2024-03-29
+2024-03-31
+2024-04-01
+2024-05-01
+2024-05-09
+2024-05-17
+2024-05-19
+2024-05-20
+2020-12-25
+2020-12-26
 
 2025
 Onsdag 1. januar: 1. nyttårsdag
