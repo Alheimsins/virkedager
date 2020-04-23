@@ -43,7 +43,7 @@
   "homepage": "https://github.com/alheimsins/virkedager#readme",
   "devDependencies": {
     "ava": "3.7.1",
-    "coveralls": "3.0.13",
+    "coveralls": "3.0.14",
     "nyc": "15.0.1",
     "standard": "14.3.3"
   }
