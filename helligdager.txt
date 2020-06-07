@@ -116,3 +116,13 @@ Søndag 16. mai: 1. pinsedag
 Mandag 17. mai: 2. pinsedag
 Lørdag 25. desember: 1. juledag
 Søndag 26. desember: 2. juledag
+
+Generelt
+Palmesøndag (1. påskedag - 7)
+Skjærtorsdag (1. påskedag - 3)
+Langfredag (1. påskedag - 2)
+1. påskedag
+2. påskedag (1. påskedag + 1)
+Kristi Himmelfartsdag (1 påskedag + 39)
+1. pinsedag (1. påskedag + 49)
+2. pinsedag (1. påskedag + 50)
