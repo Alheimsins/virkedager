@@ -1,2 +1,2 @@
-const getEasterSunday = require('./lib/get-easter-sunday')
-console.log(getEasterSunday(new Date('2026-11-18')))
+const getHelligdager = require('./lib/get-helligdager')
+console.log(getHelligdager(new Date()))
