@@ -21,3 +21,9 @@ console.log(virkedager(date, 3)) // => 2020-04-15
 # License
 
 [MIT](LICENSE)
+
+## About
+
+Created with ❤ for [Alheimsins](https://alheimsins.net)
+
+<img src="https://image.ibb.co/dPH08G/logo_black.png" height="150px" width="150px" />
