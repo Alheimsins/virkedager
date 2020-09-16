@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Alheimsins/virkedager.svg?branch=main)](https://travis-ci.com/Alheimsins/virkedager)
+[![Coverage Status](https://coveralls.io/repos/Alheimsins/virkedager/badge.svg?branch=main&service=github)](https://coveralls.io/github/Alheimsins/virkedager?branch=main)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 # virkedager
