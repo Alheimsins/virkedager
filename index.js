@@ -1,4 +1,5 @@
 const getVirkedager = require('./lib/get-virkedager')
+const isVirkedag = require('./lib/is-virkedag')
 
 module.exports = (date, days = 2) => {
   if (!date) {
@@ -10,3 +11,5 @@ module.exports = (date, days = 2) => {
   const nesteVirkedag = getVirkedager(date, days)
   return nesteVirkedag.toISOString().substr(0, 10)
 }
+
+module.exports.isVirkedag = isVirkedag

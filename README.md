@@ -8,6 +8,7 @@ Simple tool for calculating working days.
 
 ## Usage
 
+### Get next virkedag
 Input a date object and an optional number of working days (defaults to 2).
 Get a date string in return.
 
@@ -18,6 +19,18 @@ It will skip saturdays, sundays and all Norwegian public holidays.
 const virkedager = require('@alheimsins/virkedager')
 const date = new Date('2020-04-07')
 console.log(virkedager(date, 3)) // => 2020-04-15
+```
+
+### isVirkedag
+
+Input a date object and get true/false if given date is a workingday.
+
+```JavaScript
+const { isVirkedag } = require('@alheimsins/virkedager')
+const dateHoliday = new Date('2020-09-20')
+const dateWorkingday = new Date('2020-09-21')
+console.log(isVirkedag(dateHoliday)) // => false
+console.log(isVirkedag(dateWorkingday)) // => true
 ```
 
 # License
