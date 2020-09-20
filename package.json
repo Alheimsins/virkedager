@@ -1,7 +1,7 @@
 {
   "name": "@alheimsins/virkedager",
   "description": "Simple module for calculating working days",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
