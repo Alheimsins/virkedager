@@ -33,6 +33,18 @@ console.log(isVirkedag(dateHoliday)) // => false
 console.log(isVirkedag(dateWorkingday)) // => true
 ```
 
+### erInneklemtDag
+
+Input a date object and get true/false if given date is between two holidays.
+
+```JavaScript
+const { erInneklemtDag } = require('@alheimsins/virkedager')
+const dateInneklemt = new Date('2021-05-14')
+const dateNotInneklemt = new Date('2021-05-18')
+console.log(erInneklemtDag(dateInneklemt)) // => true
+console.log(erInneklemtDag(dateNotInneklemt)) // => false
+```
+
 # License
 
 [MIT](LICENSE)

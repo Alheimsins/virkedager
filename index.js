@@ -1,5 +1,6 @@
 const getVirkedager = require('./lib/get-virkedager')
 const isVirkedag = require('./lib/is-virkedag')
+const erInneklemtDag = require('./lib/erInneklemtDag')
 
 module.exports = (date, days = 2) => {
   if (!date) {
@@ -13,3 +14,4 @@ module.exports = (date, days = 2) => {
 }
 
 module.exports.isVirkedag = isVirkedag
+module.exports.erInneklemtDag = erInneklemtDag
