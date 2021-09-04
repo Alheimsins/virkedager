@@ -1,5 +1,7 @@
+
 {
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>Alheimsins/renovate-config"
+    "local>Alheimsins/renovate-config"
   ]
 }
