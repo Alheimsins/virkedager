@@ -43,6 +43,18 @@ console.log(erInneklemtDag(dateInneklemt)) // => true
 console.log(erInneklemtDag(dateNotInneklemt)) // => false
 ```
 
+### erInneklemtUke
+
+Input a date object and get true/false if given week got 3 or less working days.
+
+```JavaScript
+const { erInneklemtUke } = require('@alheimsins/virkedager')
+const dateInneklemt = new Date('2022-04-14')
+const dateNotInneklemt = new Date('2022-04-04')
+console.log(erInneklemtUke(dateInneklemt)) // => true
+console.log(erInneklemtUke(dateNotInneklemt)) // => false
+```
+
 # License
 
 [MIT](LICENSE)
